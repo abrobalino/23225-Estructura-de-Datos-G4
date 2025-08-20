@@ -1,3 +1,0 @@
-# Línea 1: número de islas
-# Siguientes líneas: nombres de las islas
-# Luego líneas con pares de índices para cada puente
